@@ -52,7 +52,7 @@ export default function AnnotationLayer() {
       window.getComputedStyle(document.body).getPropertyValue('--react-pdf-annotation-layer'),
       10,
     ) === 1,
-    'AnnotationLayer styles not found. Read more: https://github.com/wojtekmaj/react-pdf#support-for-annotations',
+    'AnnotationLayer styles not found. Read more: https://github.com/huangchuang/react-pdf#support-for-annotations',
   );
 
   function onLoadSuccess() {

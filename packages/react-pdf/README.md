@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/react-pdf.svg)](https://www.npmjs.com/package/react-pdf) ![downloads](https://img.shields.io/npm/dt/react-pdf.svg) [![CI](https://github.com/wojtekmaj/react-pdf/actions/workflows/ci.yml/badge.svg)](https://github.com/wojtekmaj/react-pdf/actions)
+[![npm](https://img.shields.io/npm/v/react-pdf.svg)](https://www.npmjs.com/package/react-pdf) ![downloads](https://img.shields.io/npm/dt/react-pdf.svg) [![CI](https://github.com/huangchuang/react-pdf/actions/workflows/ci.yml/badge.svg)](https://github.com/huangchuang/react-pdf/actions)
 
 # React-PDF
 
@@ -19,18 +19,7 @@ This package is used to _display_ existing PDFs. If you wish to _create_ PDFs us
 
 A minimal demo page can be found in `sample` directory.
 
-[Online demo](https://projects.wojtekmaj.pl/react-pdf/) is also available!
-
 ## Before you continue
-
-React-PDF is under constant development. This documentation is written for React-PDF 7.x branch. If you want to see documentation for other versions of React-PDF, use dropdown on top of GitHub page to switch to an appropriate tag. Here are quick links to the newest docs from each branch:
-
-- [v6.x](https://github.com/wojtekmaj/react-pdf/blob/v6.x/README.md)
-- [v5.x](https://github.com/wojtekmaj/react-pdf/blob/v5.x/README.md)
-- [v4.x](https://github.com/wojtekmaj/react-pdf/blob/v4.x/README.md)
-- [v3.x](https://github.com/wojtekmaj/react-pdf/blob/v3.x/README.md)
-- [v2.x](https://github.com/wojtekmaj/react-pdf/blob/v2.x/README.md)
-- [v1.x](https://github.com/wojtekmaj/react-pdf/blob/v1.x/README.md)
 
 ## Getting started
 
@@ -202,7 +191,7 @@ function MyApp() {
 }
 ```
 
-Check the [sample directory](https://github.com/wojtekmaj/react-pdf/tree/main/sample) in this repository for a full working example. For more examples and more advanced use cases, check [Recipes](https://github.com/wojtekmaj/react-pdf/wiki/Recipes) in [React-PDF Wiki](https://github.com/wojtekmaj/react-pdf/wiki/).
+Check the [sample directory](https://github.com/huangchuang/react-pdf/tree/main/sample) in this repository for a full working example. For more examples and more advanced use cases, check [Recipes](https://github.com/huangchuang/react-pdf/wiki/Recipes) in [React-PDF Wiki](https://github.com/huangchuang/react-pdf/wiki/).
 
 ### Support for annotations
 
@@ -572,7 +561,7 @@ On top of that, additional props are available:
 
 ## Useful links
 
-- [React-PDF Wiki](https://github.com/wojtekmaj/react-pdf/wiki/)
+- [React-PDF Wiki](https://github.com/huangchuang/react-pdf/wiki/)
 
 ## License
 
@@ -583,32 +572,12 @@ The MIT License.
 <table>
   <tr>
     <td >
-      <img src="https://avatars.githubusercontent.com/u/5426427?v=4&s=128" width="64" height="64" alt="Wojciech Maj">
+      <img src="https://avatars.githubusercontent.com/u/5426427?v=4&s=128" width="64" height="64" alt="Huang Chuang Frank">
     </td>
     <td>
-      <a href="https://github.com/wojtekmaj">Wojciech Maj</a>
+      <a href="https://github.com/huangchuang">Huang Chuang Frank</a>
     </td>
   </tr>
 </table>
 
 ## Thank you
-
-This project wouldn't be possible without the awesome work of [Niklas Närhinen](https://github.com/nnarhinen) who created its original version and without Mozilla, author of [pdf.js](http://mozilla.github.io/pdf.js). Thank you!
-
-### Sponsors
-
-Thank you to all our sponsors! [Become a sponsor](https://opencollective.com/react-pdf-wojtekmaj#sponsor) and get your image on our README on GitHub.
-
-<a href="https://opencollective.com/react-pdf-wojtekmaj#sponsors" target="_blank"><img src="https://opencollective.com/react-pdf-wojtekmaj/sponsors.svg?width=890"></a>
-
-### Backers
-
-Thank you to all our backers! [Become a backer](https://opencollective.com/react-pdf-wojtekmaj#backer) and get your image on our README on GitHub.
-
-<a href="https://opencollective.com/react-pdf-wojtekmaj#backers" target="_blank"><img src="https://opencollective.com/react-pdf-wojtekmaj/backers.svg?width=890"></a>
-
-### Top Contributors
-
-Thank you to all our contributors that helped on this project!
-
-![Top Contributors](https://opencollective.com/react-pdf/contributors.svg?width=890&button=false)

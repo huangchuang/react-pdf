@@ -1,6 +1,6 @@
 {
-  "name": "react-pdf",
-  "version": "8.0.2",
+  "name": "@hchuang/react-pdf",
+  "version": "1.0.1",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "type": "module",
   "sideEffects": [
@@ -50,8 +50,8 @@
     "react"
   ],
   "author": {
-    "name": "Wojciech Maj",
-    "email": "kontakt@wojtekmaj.pl"
+    "name": "Huang Chuang Frank",
+    "email": "272312258@qq.com"
   },
   "license": "MIT",
   "dependencies": {
@@ -104,8 +104,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wojtekmaj/react-pdf.git",
+    "url": "https://github.com/huangchuang/react-pdf.git",
     "directory": "packages/react-pdf"
   },
-  "funding": "https://github.com/wojtekmaj/react-pdf?sponsor=1"
+  "funding": "https://github.com/huangchuang/react-pdf?sponsor=1"
 }

@@ -1,15 +1,15 @@
 {
-  "name": "react-pdf-monorepo",
-  "version": "1.0.0",
-  "description": "react-pdf monorepo",
+  "name": "@hchuang/react-pdf-base",
+  "version": "1.0.1",
+  "description": "@hchuang/react-pdf base",
   "type": "module",
   "workspaces": [
     "packages/*",
     "test"
   ],
   "scripts": {
-    "build": "yarn workspace react-pdf build",
-    "dev": "yarn workspace react-pdf watch & yarn workspace test dev",
+    "build": "yarn workspace @hchuang/react-pdf build",
+    "dev": "yarn workspace @hchuang/react-pdf watch & yarn workspace test dev",
     "format": "yarn workspaces foreach --all run format",
     "lint": "yarn workspaces foreach --all run lint",
     "postinstall": "husky",

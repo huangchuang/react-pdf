@@ -12,8 +12,8 @@
     "dev": "yarn copy && parcel index.html"
   },
   "author": {
-    "name": "Wojciech Maj",
-    "email": "kontakt@wojtekmaj.pl"
+    "name": "Huang Chuang Frank",
+    "email": "272312258@qq.com"
   },
   "license": "MIT",
   "dependencies": {

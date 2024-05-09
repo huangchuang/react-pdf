@@ -11,7 +11,7 @@ body:
           required: true
         - label: I have checked if this bug is not already reported
           required: true
-        - label: I have checked if an issue is not listed in [Known issues](https://github.com/wojtekmaj/react-pdf/wiki/Known-issues)
+        - label: I have checked if an issue is not listed in [Known issues](https://github.com/huangchuang/react-pdf/wiki/Known-issues)
           required: true
         - label: If I have a problem with PDF rendering, I checked if my PDF renders properly in [PDF.js demo](https://mozilla.github.io/pdf.js/web/viewer.html)
   - type: textarea
@@ -59,7 +59,7 @@ body:
           - **React version**: 17.0.0
           - **Webpack version (if applicable)**: 5.50.0
       value: |
-          - **Browser (if applicable)**:
-          - **React-PDF version**:
-          - **React version**:
-          - **Webpack version (if applicable)**:
+        - **Browser (if applicable)**:
+        - **React-PDF version**:
+        - **React version**:
+        - **Webpack version (if applicable)**:

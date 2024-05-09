@@ -47,7 +47,7 @@ export default function TextLayer() {
       window.getComputedStyle(document.body).getPropertyValue('--react-pdf-text-layer'),
       10,
     ) === 1,
-    'TextLayer styles not found. Read more: https://github.com/wojtekmaj/react-pdf#support-for-text-layer',
+    'TextLayer styles not found. Read more: https://github.com/huangchuang/react-pdf#support-for-text-layer',
   );
 
   /**
